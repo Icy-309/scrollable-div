@@ -14,7 +14,7 @@ border: 2px solid black;
     gap: 10px;
     overflow-x: scroll;
     padding: 2em;
-    background-color: aqua;
+    background-color: gold;
 }
 
 .scrollable_div::-webkit-scrollbar{
